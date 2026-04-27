@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29482833085",
+    "project_id": "notion-eb9b7",
+    "storage_bucket": "notion-eb9b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29482833085:android:5dc30345dee175014f93d4",
+        "android_client_info": {
+          "package_name": "com.example.notion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJou6J7FR7skz1wPhdiI_w04kmzxAAWtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
